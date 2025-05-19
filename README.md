@@ -62,17 +62,24 @@ Ejecuta la aplicación desde App.java o la clase principal que use Application.l
 🗂 Estructura del proyecto
 WordShake/
 │
+
 ├── ejemplo/                # Controladores JavaFX (playScreenController, etc.)
+
 ├── model/                  # Clases de modelo como wordFound
+
 ├── conexion/               # Métodos de acceso a base de datos (dbMethods)
+
 ├── resources/              # Archivos FXML, imágenes y recursos
+
 ├── App.java                # Clase principal que lanza la aplicación
+
 └── README.md               # Este archivo
 
+
 ✍️ Autores
-Ivan Santiago Leon Garcia - Desarrollador.
-Juan Camilo Guzman Parra - Desarrollador.
-Vanessa Gomez Ruiz - Desarrollador.
+-  Ivan Santiago Leon Garcia - Desarrollador.
+-  Juan Camilo Guzman Parra - Desarrollador.
+-  Vanessa Gomez Ruiz - Desarrollador.
 
 🙋‍♂️ ¿Contribuciones?
 ¡Claro! Si deseas colaborar, abre un pull request o crea un issue. Las ideas para mejorar la interfaz, agregar más palabras, o añadir nuevos modos de juego son bienvenidas.
