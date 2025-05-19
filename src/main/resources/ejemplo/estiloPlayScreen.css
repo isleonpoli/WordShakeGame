@@ -1,0 +1,35 @@
+.toggle-button {
+    -fx-background-radius: 15;
+    border-radius: 15; /* Standard property for compatibility */
+    -fx-border-radius: 15;
+    font-size: 24px; /* Standard property for compatibility */
+    -fx-font-size: 24px;
+    background-color: #46f9ff; /* Standard property for compatibility */
+    -fx-background-color: #46f9ff;
+    -fx-text-fill: #0c304dd8;
+    border-color: transparent; /* Standard property for compatibility */
+    -fx-border-color: transparent;
+    -fx-pref-width: 105px; /* Fijamos el tamaño aquí también */
+    -fx-pref-height: 105px;
+    -fx-alignment: center; /* CENTRAR texto */
+    -fx-text-alignment: center; /* CENTRAR texto */
+}
+
+/* Cuando pasas el mouse por encima */
+.toggle-button:hover {
+    background-color: #dddddd; /* Standard property for compatibility */
+    -fx-background-color: #dddddd;
+}
+
+/* Cuando el ToggleButton está seleccionado */
+.toggle-button:selected {
+    background-color: #54ef6d; /* Standard property for compatibility */
+    -fx-background-color: #54ef6d; /* más oscuro */
+    -fx-text-fill: #ffffff; /* texto más oscuro */
+}
+
+/* También cuando está seleccionado y pasas el mouse encima */
+.toggle-button:selected:hover {
+    background-color: #dddddd; /* Standard property for compatibility */
+    -fx-background-color: #dddddd;
+}
