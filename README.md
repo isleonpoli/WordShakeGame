@@ -76,10 +76,8 @@ WordShake/
 └── README.md               # Este archivo
 
 
-✍️ Autores
+✍️ Autor
 -  Ivan Santiago Leon Garcia - Desarrollador.
--  Juan Camilo Guzman Parra - Desarrollador.
--  Vanessa Gomez Ruiz - Desarrollador.
 
 🙋‍♂️ ¿Contribuciones?
 ¡Claro! Si deseas colaborar, abre un pull request o crea un issue. Las ideas para mejorar la interfaz, agregar más palabras, o añadir nuevos modos de juego son bienvenidas.
