@@ -1,27 +1,27 @@
 # 🧠 WordShake
 
-WordShake es un juego de palabras interactivo desarrollado en Java usando JavaFX. El objetivo del juego es formar la mayor cantidad de palabras válidas en una cuadrícula de letras en un tiempo limitado. Cada palabra válida otorga puntos, y al finalizar el tiempo, la puntuación se guarda en el perfil del usuario.
+WordShake es un juego de palabras interactivo en ingles desarrollado en Java usando JavaFX. El objetivo del juego es formar la mayor cantidad de palabras válidas en una cuadrícula de letras en un tiempo limitado. Cada palabra válida otorga puntos, y al finalizar el tiempo, la puntuación se guarda en el perfil del usuario.
 
 ---
 
 ## 🎮 Características
 
 - ⏱ Temporizador de 3 minutos por partida
-- 🔠 Generación aleatoria de letras en una cuadrícula 5x5
-- ✅ Verificación de palabras contra una base de datos
-- 🧾 Registro en tabla de palabras válidas encontradas
-- 📊 Acumulación y guardado de puntajes
-- 👤 Integración con perfil de usuario
-- 🌙 Interfaz gráfica amigable con JavaFX
+- 🔠 Generación aleatoria de letras en una cuadrícula 5x5.
+- ✅ Verificación de palabras contra una base de datos.
+- 🧾 Registro en tabla de palabras válidas encontradas.
+- 📊 Acumulación y guardado de puntajes.
+- 👤 Integración con perfil de usuario.
+- 🌙 Interfaz gráfica amigable con JavaFX.
 
 ---
 
 ## 🛠 Requisitos
 
-- Java 17 o superior
-- JavaFX 21
-- MySQL (para base de datos de palabras y usuarios)
-- IDE recomendado: IntelliJ IDEA o VSCode
+- Java 17 o superior.
+- JavaFX 21.
+- PostgrestSQL (para base de datos de palabras y usuarios)
+- IDE recomendado: VSCode
 - Conexión a base de datos configurada (ver `dbMethods.java`)
 
 ---
